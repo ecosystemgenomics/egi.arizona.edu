@@ -3,6 +3,9 @@
       display: none !important;
     }
   }
+  a.nav-link.text-white.active {
+    color: black !important;
+}
 
   ul.nav.nav-tabs {
     margin-left: 3.5rem;
